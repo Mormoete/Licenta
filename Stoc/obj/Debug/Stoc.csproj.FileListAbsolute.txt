@@ -1,0 +1,12 @@
+C:\Users\Dragos\source\repos\Stoc\Stoc\bin\Debug\Stoc.exe.config
+C:\Users\Dragos\source\repos\Stoc\Stoc\bin\Debug\Stoc.exe
+C:\Users\Dragos\source\repos\Stoc\Stoc\bin\Debug\Stoc.pdb
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.csprojAssemblyReference.cache
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.Inregistrare.resources
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.Properties.Resources.resources
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.StocPrincipal.resources
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.csproj.GenerateResource.cache
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.exe
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.pdb
+C:\Users\Dragos\source\repos\Stoc\Stoc\obj\Debug\Stoc.Produs.resources
